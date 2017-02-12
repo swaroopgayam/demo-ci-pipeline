@@ -1,0 +1,8 @@
+node {
+        stage 'Stage 1'
+        echo 'Hello World'
+        stage 'stage 2'
+        echo 'This is swaroop'
+        stage 'stage 3'
+        echo 'This is sai'
+}
