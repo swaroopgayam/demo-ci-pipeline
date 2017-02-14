@@ -5,5 +5,8 @@ node {
         echo 'This is swaroop'
         stage 'stage 3'
         echo 'This is sai'
+        stage 'stage 4'
+        echo 'This is sa'
 }
+
 
